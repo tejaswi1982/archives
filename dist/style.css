@@ -9,3 +9,5 @@
 .archive-item:first-child .image-link{display:grid;place-items:center;aspect-ratio:960/678}
 .archive-item:first-child .image-link img{width:70%;height:auto}
 .archive-item:first-child .image-link::after{right:15%;bottom:15%}
+
+.site-header nav .home-link{display:inline-flex;align-items:center;min-height:44px}
